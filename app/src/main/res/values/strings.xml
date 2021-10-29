@@ -2,4 +2,7 @@
     <string name="app_name">MyNavApplication</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_red">fragment_red</string>
+    <string name="fragment_green">fragment_green</string>
+    <string name="fragment_blue">fragment_blue</string>
 </resources>
